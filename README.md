@@ -1,2 +1,1 @@
-# p2p
-Aprendendo o funcionamento de um P2P
+Learning how a <b>P2P</b> works
